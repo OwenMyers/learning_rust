@@ -7,4 +7,4 @@ fn main() {
     for i in &v {
         println!("{}", i);
     }
-}
+} 

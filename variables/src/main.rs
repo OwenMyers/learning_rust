@@ -8,4 +8,8 @@ fn main() {
     println!("some_u32_v: {}", some_u32_v);
     println!("some_u32_v2: {}", some_u32_v2);
 
+    let s: String = String::from(format!("try str mult in: {}, {}",1,2));
+    println!("{}",s);
+
+
 }
